@@ -13,6 +13,7 @@ body{
 header{
     background-image:url(./assets/allback.svg);
     background-repeat: no-repeat;
+    background-size: cover;
     height: 363px;
     display: flex;
     align-items: center;
